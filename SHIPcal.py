@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-# ENcontré un bug en los HEX
+# Ya resolví el bug en HEX
 
 """
 Created on Wed Oct 12 19:54:51 2016
